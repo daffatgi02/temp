@@ -1,0 +1,1 @@
+game.TweenService:Create(script.Parent, TweenInfo.new(20, Enum.EasingStyle.Linear, Enum.EasingDirection.In, -1), {Orientation = script.Parent.Orientation + Vector3.new(0, 360, 0)}):Play()

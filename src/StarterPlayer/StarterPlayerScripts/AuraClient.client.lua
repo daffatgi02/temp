@@ -121,9 +121,17 @@ local auraIcon
 local function createAuraMenu()
 	local playerGui = player:WaitForChild("PlayerGui")
 
+	-- Destroy any existing Aura GUI (better cleanup)
 	local existingAuraGUI = playerGui:FindFirstChild("AuraSystemGUI")
 	if existingAuraGUI then
 		existingAuraGUI:Destroy()
+	end
+
+	-- Also clean up any stray notification GUIs
+	for _, obj in pairs(playerGui:GetChildren()) do
+		if obj.Name == "AuraNotification" then
+			obj:Destroy()
+		end
 	end
 
 	local isMobile = isMobileDevice()
@@ -464,6 +472,18 @@ end
 -- CREATE TOPBARPLUS ICON
 -- ============================================================================
 local function createTopbarIcon()
+	-- Clean up existing icon reference
+	if auraIcon then
+		auraIcon:destroy()
+		auraIcon = nil
+	end
+
+	-- Check for any existing icon with same name (fallback)
+	local existingIcon = Icon.getIcon("Aura")
+	if existingIcon then
+		existingIcon:destroy()
+	end
+
 	auraIcon = Icon.new()
 	auraIcon:setName("Aura")
 	auraIcon:setLabel("Aura")
@@ -486,12 +506,60 @@ local function createTopbarIcon()
 end
 
 -- ============================================================================
+-- CLEANUP FUNCTION
+-- ============================================================================
+local function cleanupAuraSystem()
+	-- Destroy existing GUI
+	local playerGui = player:WaitForChild("PlayerGui")
+	local existingAuraGUI = playerGui:FindFirstChild("AuraSystemGUI")
+	if existingAuraGUI then
+		existingAuraGUI:Destroy()
+	end
+
+	-- Clean up any stray notifications
+	for _, obj in pairs(playerGui:GetChildren()) do
+		if obj.Name == "AuraNotification" then
+			obj:Destroy()
+		end
+	end
+
+	-- Cleanup icon if exists
+	if auraIcon then
+		auraIcon:destroy()
+		auraIcon = nil
+	end
+
+	-- Also check for any existing icon by name (extra safety)
+	local existingIcon = Icon.getIcon("Aura")
+	if existingIcon then
+		existingIcon:destroy()
+	end
+
+	-- Clear frame reference
+	auraFrame = nil
+end
+
+-- ============================================================================
 -- INITIALIZE
 -- ============================================================================
+local isInitialized = false
+
 createAuraGUIRemote.OnClientEvent:Connect(function()
+	-- Cleanup existing instance first
+	if isInitialized then
+		cleanupAuraSystem()
+	end
+
 	createAuraMenu()
 	task.wait(1) -- Wait for TopbarPlus to be ready
 	createTopbarIcon()
+	isInitialized = true
+end)
+
+-- Handle respawn/death
+player.CharacterRemoving:Connect(function()
+	-- Don't cleanup immediately - wait for respawn
+	-- The server will trigger createAuraGUIRemote when character respawns
 end)
 
 print("🎨 Aura System with TopbarPlus loaded!")

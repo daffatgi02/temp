@@ -1,0 +1,413 @@
+  22:49:30.081  ✅ ChatTagSystem loaded!  -  Studio
+  22:49:30.081  GetCollisionGroupId is deprecated. More info: https://devforum.roblox.com/t/updates-to-collision-groups/1990215  -  Studio
+  22:49:30.081  Collision group not found.  -  Studio
+  22:49:30.081  Stack Begin  -  Studio
+  22:49:30.081  Script 'ServerScriptService.PlayerCollisionHandler', Line 14  -  Studio
+  22:49:30.081  Script 'ServerScriptService.PlayerCollisionHandler', Line 13 - function setupCollisionGroups  -  Studio
+  22:49:30.081  Script 'ServerScriptService.PlayerCollisionHandler', Line 64  -  Studio
+  22:49:30.082  Stack End  -  Studio
+  22:49:30.085  CreateCollisionGroup is deprecated, please use RegisterCollisionGroup instead. More info: https://devforum.roblox.com/t/updates-to-collision-groups/1990215  -  Studio
+  22:49:30.086  ✅ Collision groups setup complete!  -  Studio
+  22:49:30.087  HD MainModule: Memulai require asset...  -  Studio
+  22:49:30.087  Requiring asset 3239236979.
+Callstack:
+ServerScriptService.HD Admin.Core.MainModule, line 5
+  -  Studio
+  22:49:30.087  ════════════════════════════════════════════════════════════  -  Studio
+  22:49:30.087                     NEKO_OMEN PRODUCTIONS                      -  Studio
+  22:49:30.087  ════════════════════════════════════════════════════════════  -  Studio
+  22:49:30.087      -  Studio
+  22:49:30.087  📜 Script Credits:  -  Studio
+  22:49:30.088     • Made by: Neko_Omen  -  Studio
+  22:49:30.088     • YouTube: Neko_Omen  -  Studio
+  22:49:30.088     • TikTok: Pemulaxtampan  -  Studio
+  22:49:30.088     • Discord: discord.gg/NQFxVtVrG5  -  Studio
+  22:49:30.088      -  Studio
+  22:49:30.088  🎮 Check out my games:  -  Studio
+  22:49:30.088     • Mount Sanctuary (Mountain Climbing)  -  Studio
+  22:49:30.088     • Serenity (Fishing & Chill)  -  Studio
+  22:49:30.088      -  Studio
+  22:49:30.089  ⚠️  DO NOT: Resell, Reupload, or Claim as yours!  -  Studio
+  22:49:30.089  ✅ FREE TO USE: Just give credit!  -  Studio
+  22:49:30.089      -  Studio
+  22:49:30.089  ════════════════════════════════════════════════════════════  -  Studio
+  22:49:30.089             Thank you for using my scripts! 💖                 -  Studio
+  22:49:30.089  ════════════════════════════════════════════════════════════  -  Studio
+  22:49:30.089  ✅ Summit Admin Panel init  -  Studio
+  22:49:30.093  ✅ Donation System Loaded!  -  Studio
+  22:49:30.093  💰 Price tiers:  -  Studio
+  22:49:30.093     500 Robux = Nuke  -  Studio
+  22:49:30.093     1000 Robux = Smite  -  Studio
+  22:49:30.094     5000+ Robux = BlackHole  -  Studio
+  22:49:34.762  Could not register collision group, the name already exists.  -  Studio
+  22:49:34.762  Stack Begin  -  Studio
+  22:49:34.762  Script 'ServerScriptService.PlayerCollisionHandler', Line 16 - function setupCollisionGroups  -  Studio
+  22:49:34.763  Script 'ServerScriptService.PlayerCollisionHandler', Line 64  -  Studio
+  22:49:34.763  Stack End  -  Studio
+  22:49:35.604  SetPartCollisionGroup is deprecated, please use BasePart.CollisionGroup instead. More info: https://devforum.roblox.com/t/updates-to-collision-groups/1990215  -  Studio
+  22:49:35.604  ✅ Summit part assigned to Checkpoints group  -  Server - CollisionGroupSetup:157
+  22:49:35.604  ✅ Checkpoint parts setup complete!  -  Server - CollisionGroupSetup:162
+  22:49:35.604  🚀 Carry Collision System loaded!  -  Server - CollisionGroupSetup:251
+  22:49:35.820  Animation Spoofer cannot run while game is running  -  Server
+  22:49:35.889  HD MainModule: ✅ Berhasil require asset 3239236979. Waktu download: 5.802 detik  -  Server - MainModule:7
+  22:49:35.978  DataStore request was added to queue. If request queue fills, further requests will be dropped. Try sending fewer requests.Key = ____PS  -  Studio
+  22:49:36.300  ✅ ChatTagClient loaded!  -  Client - ChatTagClient:88
+  22:49:36.300  ==============================================  -  Client - Confess:14
+  22:49:36.301  [Neko_Omen] Confession Wall Client Initialized  -  Client - Confess:15
+  22:49:36.301  [Neko_Omen] Player: AxcelUz  -  Client - Confess:16
+  22:49:36.301  [Neko_Omen] Made & Published by YT: Neko_Omen  -  Client - Confess:17
+  22:49:36.301  ==============================================  -  Client - Confess:18
+  22:49:36.301  🎨 Aura System with TopbarPlus loaded!  -  Client - AuraClient:497
+  22:49:36.504  Animation Spoofer cannot run while game is running  -  Client
+  22:49:36.723  [ProfileStore]: Roblox API services available - data will be saved  -  Server - ProfileStore:2098
+  22:49:36.724  Found UserID 8978258458 for username: cho0012345  -  Server - Script:53
+  22:49:36.724  Found UserID 8222796361 for username: altafkania  -  Server - Script:53
+  22:49:36.799  Found UserID 8200848417 for username: clairyth10  -  Server - Script:53
+  22:49:36.799  Found UserID 9596985133 for username: Paksomat888  -  Server - Script:53
+  22:49:36.799  Found UserID 9351179055 for username: g4mersnoob  -  Server - Script:53
+  22:49:36.799  Found UserID 9118581801 for username: Juju280700  -  Server - Script:53
+  22:49:36.800  Found UserID 8615732583 for username: Daysaliv  -  Server - Script:53
+  22:49:36.800  Found UserID 8825849958 for username: krisppi11  -  Server - Script:53
+  22:49:36.800  Found UserID 8831999951 for username: DeLunaa66  -  Server - Script:53
+  22:49:36.800  Found UserID 9612593502 for username: AxcelUz  -  Server - Script:53
+  22:49:36.800  Found UserID 9240638873 for username: KingXzeronine  -  Server - Script:53
+  22:49:36.800  Found UserID 7730222208 for username: Ipiii62  -  Server - Script:53
+  22:49:36.800  [ResetToBasecamp] ResetPart not found  -  Client - ResetToBasecampGUI:196
+  22:49:36.801  ✅ [ResetToBasecamp] Simple reset part system loaded!  -  Client - ResetToBasecampGUI:212
+  22:49:36.977  BoomBox Server initialized - Music follows player mode by nrhd  -  Server - Server:344
+  22:49:37.023  Applying scale of 2 to appearance...  -  Server - Script:28
+  22:49:37.040  Applying scale of 2 to appearance...  -  Server - Script:28
+  22:49:37.105  enabled  -  Client - LocalScript:29
+  22:49:37.124  Applying scale of 5 to appearance...  -  Server - Script:28
+  22:49:37.381  Applying scale of 2 to appearance...  -  Server - Script:28
+  22:49:37.403  ✅ [Settings] Settings system loaded!  -  Client - SettingsSystem:877
+  22:49:37.460  Applying scale of 3 to appearance...  -  Server - Script:28
+  22:49:37.496  Applying scale of 2 to appearance...  -  Server - Script:28
+  22:49:37.498  Applying scale of 3 to appearance...  -  Server - Script:28
+  22:49:37.501  Sound created on Handle (fallback)  -  Server - Server:72
+  22:49:37.515  Applying scale of 5 to appearance...  -  Server - Script:28
+  22:49:37.538  Applying scale of 2 to appearance...  -  Server - Script:28
+  22:49:37.560  Applying scale of 2 to appearance...  -  Server - Script:28
+  22:49:37.590  Applying scale of 5 to appearance...  -  Server - Script:28
+  22:49:37.645  Applying scale of 2 to appearance...  -  Server - Script:28
+  22:49:38.098  ✓ Successfully applied appearance of UserID: 8978258458 to cho0012345  -  Server - Script:38
+  22:49:38.098  ✓ Applied scale: 2  -  Server - Script:40
+  22:49:38.113  Requiring asset 17691085049.
+Callstack:
+Workspace.Donation Board // V3.Config.Loader, line 3
+  -  Server - Loader:3
+  22:49:38.115  🎭 Emote System with TopbarPlus loaded!  -  Client - EmoteController:534
+  22:49:38.277  Failed to load animation with sanitized ID rbxassetid://18994: Animation failed to load, assetId: https://assetdelivery.roblox.com/v1/asset?id=18994&serverplaceid=0  -  Studio
+  22:49:38.277  The experience doesn't have access permission to use asset id 18994. Click to share access  -  Studio
+  22:49:38.279  [MusicPlayer] Loaded 10 songs from categories  -  Client - MusicPlayerSystem:117
+  22:49:38.546  Failed to load animation with sanitized ID rbxassetid://18994: Animation failed to load, assetId: https://assetdelivery.roblox.com/v1/asset?id=18994&serverplaceid=0  -  Studio
+  22:49:38.548  The experience doesn't have access permission to use asset id 18994. Click to share access  -  Studio
+  22:49:38.758  ✓ Successfully applied appearance of UserID: 8222796361 to altafkania  -  Server - Script:38
+  22:49:38.758  ✓ Applied scale: 2  -  Server - Script:40
+  22:49:39.279  ✓ Successfully applied appearance of UserID: 8200848417 to clairyth10  -  Server - Script:38
+  22:49:39.279  ✓ Applied scale: 5  -  Server - Script:40
+  22:49:39.414  No pages to advance to  -  Studio
+  22:49:39.414  Stack Begin  -  Studio
+  22:49:39.415  Script 'ReplicatedStorage.Server // MainModule', Line 288  -  Studio
+  22:49:39.415  Script 'ReplicatedStorage.Server // MainModule', Line 288 - function GetDeveloperProducts  -  Studio
+  22:49:39.415  Script 'ReplicatedStorage.Server // MainModule', Line 476  -  Studio
+  22:49:39.415  Stack End  -  Studio
+  22:49:39.808  [MusicPlayer] Playing: Multo - Cup Of Joe  -  Client - MusicPlayerSystem:947
+  22:49:39.808  [MusicPlayer] Auto-playing from category: Nyantai  -  Client - MusicPlayerSystem:1217
+  22:49:39.808  ✅ [MusicPlayer] Music Player initialized with 10 songs  -  Client - MusicPlayerSystem:1231
+  22:49:40.112  SetCore: AvatarContextMenuEnabled has not been registered by the CoreScripts  -  Studio
+  22:49:40.112  Stack Begin  -  Studio
+  22:49:40.112  Script 'Players.AxcelUz.PlayerGui.carrygui.LocalScript', Line 5  -  Studio
+  22:49:40.112  Stack End  -  Studio
+  22:49:41.911  ✓ Successfully applied appearance of UserID: 9596985133 to Paksomat888  -  Server - Script:38
+  22:49:41.911  ✓ Applied scale: 2  -  Server - Script:40
+  22:49:41.911  ✓ Successfully applied appearance of UserID: 8615732583 to Daysaliv  -  Server - Script:38
+  22:49:41.911  ✓ Applied scale: 3  -  Server - Script:40
+  22:49:41.911  ✓ Successfully applied appearance of UserID: 9351179055 to g4mersnoob  -  Server - Script:38
+  22:49:41.911  ✓ Applied scale: 3  -  Server - Script:40
+  22:49:41.911  ✓ Successfully applied appearance of UserID: 9118581801 to Juju280700  -  Server - Script:38
+  22:49:41.911  ✓ Applied scale: 2  -  Server - Script:40
+  22:49:41.941  Infinite yield possible on 'ReplicatedStorage:WaitForChild("ConfessionEvents")'  -  Studio
+  22:49:41.941  Stack Begin  -  Studio
+  22:49:41.941  Script 'Players.AxcelUz.PlayerScripts.Confess', Line 21  -  Studio - Confess:21
+  22:49:41.941  Stack End  -  Studio
+  22:49:41.963  ✓ Successfully applied appearance of UserID: 8831999951 to DeLunaa66  -  Server - Script:38
+  22:49:41.963  ✓ Applied scale: 5  -  Server - Script:40
+  22:49:42.596  ✓ Successfully applied appearance of UserID: 9612593502 to AxcelUz  -  Server - Script:38
+  22:49:42.596  ✓ Applied scale: 2  -  Server - Script:40
+  22:49:43.414  ✓ Successfully applied appearance of UserID: 9240638873 to KingXzeronine  -  Server - Script:38
+  22:49:43.415  ✓ Applied scale: 2  -  Server - Script:40
+  22:49:43.681  ✓ Successfully applied appearance of UserID: 7730222208 to Ipiii62  -  Server - Script:38
+  22:49:43.681  ✓ Applied scale: 5  -  Server - Script:40
+  22:49:44.412  ✓ Successfully applied appearance of UserID: 8825849958 to krisppi11  -  Server - Script:38
+  22:49:44.412  ✓ Applied scale: 2  -  Server - Script:40
+  22:50:02.204  >   -- === DEBUG SERVICES ===
+  local ReplicatedStorage = game:GetService("ReplicatedStorage")
+  local Players = game:GetService("Players")
+  local Workspace = game:GetService("Workspace")
+
+  print("=== ReplicatedStorage Check ===")
+  for _, child in ipairs(ReplicatedStorage:GetChildren()) do
+      print("RS:", child.Name, child.ClassName)
+  end
+
+  print("\n=== Workspace Check ===")
+  for _, child in ipairs(Workspace:GetChildren()) do
+      print("WS:", child.Name, child.ClassName)
+      if child.Name == "ResetBasecamp" then
+          print("  ResetBasecamp folder ditemukan!")
+          for _, subChild in ipairs(child:GetChildren()) do
+              print("    RB:", subChild.Name, subChild.ClassName)
+          end
+      end
+  end
+
+  print("\n=== Local Player Check ===")
+  local player = Players.LocalPlayer
+  local character = player.Character
+  if character then
+      print("Player character:", character:GetFullName())
+      for _, child in ipairs(character:GetChildren()) do
+          print("  Char:", child.Name, child.ClassName)
+      end
+  else
+      print("No character found")
+  end  -  Studio
+  22:50:02.205  === ReplicatedStorage Check ===  -  Client
+  22:50:02.205  RS: Icon ModuleScript  -  Client
+  22:50:02.205  RS: PlayerNameDisplayConfig ModuleScript  -  Client
+  22:50:02.205  RS: SummitPanelClient ModuleScript  -  Client
+  22:50:02.205  RS: Remotes ModuleScript  -  Client
+  22:50:02.205  RS: ClickerModule ModuleScript  -  Client
+  22:50:02.205  RS: AssetManager ModuleScript  -  Client
+  22:50:02.205  RS: ProfileService ModuleScript  -  Client
+  22:50:02.205  RS: GameSettings ModuleScript  -  Client
+  22:50:02.206  RS: CheckSummitStatus RemoteFunction  -  Client
+  22:50:02.206  RS: SummitAdminPanel_GetData RemoteFunction  -  Client
+  22:50:02.206  RS: Unsync RemoteEvent  -  Client
+  22:50:02.206  RS: UpdateConfession RemoteEvent  -  Client
+  22:50:02.206  RS: Music Folder  -  Client
+  22:50:02.206  RS: Animations Folder  -  Client
+  22:50:02.206  RS: JamStudio Folder  -  Client
+  22:50:02.206  RS: Objects Folder  -  Client
+  22:50:02.206  RS: ResetToBasecamp RemoteEvent  -  Client
+  22:50:02.206  RS: GetPlayerConfig RemoteFunction  -  Client
+  22:50:02.206  RS: Packages Folder  -  Client
+  22:50:02.207  RS: PlayAnims Folder  -  Client
+  22:50:02.207  RS: SignGamepassID Configuration  -  Client
+  22:50:02.207  RS: VFX Folder  -  Client
+  22:50:02.207  RS: Sync RemoteEvent  -  Client
+  22:50:02.207  RS: SummitAdminPanel_Request RemoteEvent  -  Client
+  22:50:02.207  RS: Panda Folder  -  Client
+  22:50:02.207  RS: AFKSystem Folder  -  Client
+  22:50:02.207  RS: CarryReplic Folder  -  Client
+  22:50:02.207  RS: PlayCheckpointSound RemoteEvent  -  Client
+  22:50:02.207  RS: AuraRemotes Folder  -  Client
+  22:50:02.207  RS: HDAdminHDClient Folder  -  Client
+  22:50:02.207  RS: PlaySummitSound RemoteEvent  -  Client
+  22:50:02.207  RS: GetChatTagData RemoteFunction  -  Client
+  22:50:02.207  RS: OpenSummitPanel RemoteEvent  -  Client
+  22:50:02.208  RS: HDAdminReference ObjectValue  -  Client
+  22:50:02.208  RS: TopbarPlusReference ObjectValue  -  Client
+  22:50:02.208  RS: HDAdminSetup ModuleScript  -  Client
+  22:50:02.208  RS: Server // MainModule ModuleScript  -  Client
+  22:50:02.208  RS: Client // MainModule ModuleScript  -  Client
+  22:50:02.208  
+=== Workspace Check ===  -  Client
+  22:50:02.208  WS: Camera Camera  -  Client
+  22:50:02.208  WS: pohon sakura Folder  -  Client
+  22:50:02.208  WS: tangga pertama Folder  -  Client
+  22:50:02.208  WS: Cherry Blossom M Model  -  Client
+  22:50:02.208  WS: Climable Rope Model  -  Client
+  22:50:02.209  WS: Rope Model  -  Client
+  22:50:02.209  WS: bunga bertaburan Model  -  Client
+  22:50:02.209  WS: Prop Model  -  Client
+  22:50:02.209  WS: ThreeDTextObject Model  -  Client
+  22:50:02.209  WS: Cherry Blossom M Model  -  Client
+  22:50:02.209  WS: KingXzeronine Model  -  Client
+  22:50:02.209  WS: Model Model  -  Client
+  22:50:02.209  WS: papan gantung Folder  -  Client
+  22:50:02.209  WS: Realistic Tree Model  -  Client
+  22:50:02.209  WS: ThreeDTextObject Model  -  Client
+  22:50:02.209  WS: tangga inul Folder  -  Client
+  22:50:02.209  WS: tangga kayu gerak Folder  -  Client
+  22:50:02.210  WS: bulatan gantung Folder  -  Client
+  22:50:02.210  WS: bunga bertaburan Model  -  Client
+  22:50:02.210  WS: ThreeDTextObject Model  -  Client
+  22:50:02.210  WS: SummitLeaderboardModel Model  -  Client
+  22:50:02.210  WS: Realistic Tree Model  -  Client
+  22:50:02.210  WS: cp aura Folder  -  Client
+  22:50:02.210  WS: kayu meledak Folder  -  Client
+  22:50:02.210  WS: tangga gantung Folder  -  Client
+  22:50:02.210  WS: cp Folder  -  Client
+  22:50:02.210  WS: JAPANESE BENCH RED Model  -  Client
+  22:50:02.210  WS: papan cp11 Folder  -  Client
+  22:50:02.210  WS: Rope Model  -  Client
+  22:50:02.210  WS: papan hilang Folder  -  Client
+  22:50:02.210  WS: tangga inul Folder  -  Client
+  22:50:02.211  WS: Realistic Tree Model  -  Client
+  22:50:02.211  WS: Paksomat888 Model  -  Client
+  22:50:02.211  WS: ConfessWall Folder  -  Client
+  22:50:02.211  WS: Climable Rope Model  -  Client
+  22:50:02.211  WS: Cherry Blossom M Model  -  Client
+  22:50:02.211  WS: Rope Model  -  Client
+  22:50:02.211  WS: Japan_bridge Model  -  Client
+  22:50:02.211  WS: Climable Rope Model  -  Client
+  22:50:02.211  WS: Realistic Tree Model  -  Client
+  22:50:02.211  WS: Fallback Folder  -  Client
+  22:50:02.211  WS: Time Player Board Model  -  Client
+  22:50:02.211  WS: Realistic Tree Model  -  Client
+  22:50:02.211  WS: Remastered Tree House Model  -  Client
+  22:50:02.211  WS: Tall Japanese Lamp Model  -  Client
+  22:50:02.212  WS: AxcelUz Model  -  Client
+  22:50:02.212  WS: Model Model  -  Client
+  22:50:02.212  WS: ThreeDTextObject Model  -  Client
+  22:50:02.212  WS: pembatas Folder  -  Client
+  22:50:02.212  WS: Realistic Tree Model  -  Client
+  22:50:02.212  WS: Rope Model  -  Client
+  22:50:02.212  WS: blue aura polpol014 Model  -  Client
+  22:50:02.212  WS: Model Model  -  Client
+  22:50:02.212  WS: blue aura polpol014 Model  -  Client
+  22:50:02.212  WS: bulatan gantung Folder  -  Client
+  22:50:02.212  WS: jalur 2 Folder  -  Client
+  22:50:02.213  WS: tangga cp11 Folder  -  Client
+  22:50:02.213  WS: sign tool Model  -  Client
+  22:50:02.213  WS: CHAOS : INSANITY Aura Model  -  Client
+  22:50:02.213  WS: Realistic Tree Model  -  Client
+  22:50:02.213  WS: Donation Board // V3 StyleSheet  -  Client
+  22:50:02.213  WS: Realistic Tree Model  -  Client
+  22:50:02.213  WS: blue aura polpol014 Model  -  Client
+  22:50:02.213  WS: ThreeDTextObject Model  -  Client
+  22:50:02.213  WS: Model Model  -  Client
+  22:50:02.214  WS: Treasure Model  -  Client
+  22:50:02.214  WS: ThreeDTextObject Model  -  Client
+  22:50:02.214  WS: ResetBasecamp Folder  -  Client
+  22:50:02.214    ResetBasecamp folder ditemukan!  -  Client
+  22:50:02.214  WS: Rope Model  -  Client
+  22:50:02.214  WS: Model Model  -  Client
+  22:50:02.214  WS: Cherry Blossom M Model  -  Client
+  22:50:02.214  WS: ThreeDTextObject Model  -  Client
+  22:50:02.214  WS: Realistic Tree Model  -  Client
+  22:50:02.214  WS: ThreeDTextObject Model  -  Client
+  22:50:02.214  WS: blue aura polpol014 Model  -  Client
+  22:50:02.214  WS: Realistic Tree Model  -  Client
+  22:50:02.214  WS: blue aura polpol014 Model  -  Client
+  22:50:02.214  WS: cho0012345 Model  -  Client
+  22:50:02.215  WS: ThreeDTextObject Model  -  Client
+  22:50:02.215  WS: Cherry Blossom M Model  -  Client
+  22:50:02.215  WS: bunga bertaburan Model  -  Client
+  22:50:02.215  WS: Rope Model  -  Client
+  22:50:02.215  WS: Realistic Tree Model  -  Client
+  22:50:02.215  WS: ThreeDTextObject Model  -  Client
+  22:50:02.215  WS: Ayunan Model  -  Client
+  22:50:02.215  WS: Torii Model  -  Client
+  22:50:02.215  WS: Model Model  -  Client
+  22:50:02.215  WS: Daysaliv Model  -  Client
+  22:50:02.215  WS: Cherry Blossom M Model  -  Client
+  22:50:02.215  WS: Rope Model  -  Client
+  22:50:02.216  WS: Tall Japanese Lamp Model  -  Client
+  22:50:02.216  WS: StarterCharacter Model  -  Client
+  22:50:02.216  WS: krisppi11 Model  -  Client
+  22:50:02.216  WS: Tall Japanese Lamp Model  -  Client
+  22:50:02.216  WS: NukeModel Model  -  Client
+  22:50:02.216  WS: bunga bertaburan Model  -  Client
+  22:50:02.216  WS: Rope Model  -  Client
+  22:50:02.216  WS: Tall Japanese Lamp Model  -  Client
+  22:50:02.216  WS: Rope Model  -  Client
+  22:50:02.216  WS: Climable Rope Model  -  Client
+  22:50:02.216  WS: Cherry Blossom M Model  -  Client
+  22:50:02.216  WS: Rope Model  -  Client
+  22:50:02.216  WS: ThreeDTextObject Model  -  Client
+  22:50:02.216  WS: Tall Japanese Lamp Model  -  Client
+  22:50:02.216  WS: Realistic Tree Model  -  Client
+  22:50:02.217  WS: Model Model  -  Client
+  22:50:02.217  WS: Cherry Blossom M Model  -  Client
+  22:50:02.217  WS: Realistic Tree Model  -  Client
+  22:50:02.217  WS: ThreeDTextObject Model  -  Client
+  22:50:02.217  WS: bunga bertaburan Model  -  Client
+  22:50:02.217  WS: Timeless Galaxy mask Accessory  -  Client
+  22:50:02.217  WS: Model Model  -  Client
+  22:50:02.217  WS: Realistic Tree Model  -  Client
+  22:50:02.217  WS: Rope Model  -  Client
+  22:50:02.217  WS: DeLunaa66 Model  -  Client
+  22:50:02.217  WS: Model Model  -  Client
+  22:50:02.217  WS: ThreeDTextObject Model (x3)  -  Client
+  22:50:02.218  WS: altafkania Model  -  Client
+  22:50:02.218  WS: HDAdminWorkspaceFolder Folder  -  Client
+  22:50:02.218  WS: ugcbeachsign Accessory  -  Client
+  22:50:02.218  WS: Decal Decal  -  Client
+  22:50:02.218  WS: Tall Japanese Lamp Model  -  Client
+  22:50:02.218  WS: Realistic Tree Model  -  Client
+  22:50:02.218  WS: blue aura polpol014 Model  -  Client
+  22:50:02.218  WS: ThreeDTextObject Model  -  Client
+  22:50:02.218  WS: blue aura polpol014 Model  -  Client
+  22:50:02.218  WS: Model Model  -  Client
+  22:50:02.218  WS: Japanese Torii Gate Model  -  Client
+  22:50:02.219  WS: blue aura polpol014 Model  -  Client
+  22:50:02.219  WS: StarterCharacter Model  -  Client
+  22:50:02.219  WS: Cherry Blossom M Model  -  Client
+  22:50:02.219  WS: ThreeDTextObject Model  -  Client
+  22:50:02.219  WS: Rope Model  -  Client
+  22:50:02.219  WS: ThreeDTextObject Model  -  Client
+  22:50:02.219  WS: Realistic Tree Model  -  Client
+  22:50:02.219  WS: ThreeDTextObject Model  -  Client
+  22:50:02.219  WS: blue aura polpol014 Model  -  Client
+  22:50:02.219  WS: Ipiii62 Model  -  Client
+  22:50:02.219  WS: Realistic Tree Model  -  Client
+  22:50:02.220  WS: blue aura polpol014 Model  -  Client
+  22:50:02.220  WS: clairyth10 Model  -  Client
+  22:50:02.220  WS: Tall Japanese Lamp Model  -  Client
+  22:50:02.220  WS: Juju280700 Model  -  Client
+  22:50:02.220  WS: Ayunan Model  -  Client
+  22:50:02.220  WS: ThreeDTextObject Model  -  Client
+  22:50:02.220  WS: Tall Japanese Lamp Model  -  Client
+  22:50:02.220  WS: ThreeDTextObject Model  -  Client
+  22:50:02.220  WS: Rope Model  -  Client
+  22:50:02.220  WS: blue aura polpol014 Model  -  Client
+  22:50:02.221  WS: Rope Model  -  Client
+  22:50:02.221  WS: blue aura polpol014 Model  -  Client
+  22:50:02.221  WS: Climable Rope Model  -  Client
+  22:50:02.221  WS: ThreeDTextObject Model  -  Client
+  22:50:02.221  WS: Realistic Tree Model  -  Client
+  22:50:02.221  WS: Climable Rope Model  -  Client
+  22:50:02.221  WS: Realistic Tree Model  -  Client
+  22:50:02.221  WS: g4mersnoob Model  -  Client
+  22:50:02.221  WS: ThreeDTextObject Model  -  Client
+  22:50:02.221  WS: Realistic Tree Model  -  Client
+  22:50:02.221  WS: Tall Japanese Lamp Model  -  Client
+  22:50:02.221  WS: Terrain Terrain  -  Client
+  22:50:02.221  WS: AxcelUz Model  -  Client
+  22:50:02.222  WS: SpawnLocation SpawnLocation  -  Client
+  22:50:02.222  WS: Part Part (x5)  -  Client
+  22:50:02.222  WS: Japan Crystal UnionOperation  -  Client
+  22:50:02.222  WS: Part Part  -  Client
+  22:50:02.222  
+=== Local Player Check ===  -  Client
+  22:50:02.222  Player character: Workspace.AxcelUz  -  Client
+  22:50:02.222    Char: Pants Pants  -  Client
+  22:50:02.222    Char: Shirt Shirt  -  Client
+  22:50:02.223    Char: Body Colors BodyColors  -  Client
+  22:50:02.223    Char: Humanoid Humanoid  -  Client
+  22:50:02.223    Char: HDAdminStarterCharacter LocalScript  -  Client
+  22:50:02.223    Char: Health Script  -  Client
+  22:50:02.223    Char: Animate LocalScript  -  Client
+  22:50:02.223    Char: Meshes/Floof_Cube.031Accessory Accessory  -  Client
+  22:50:02.223    Char: Accessory (MeshPartAccessory) Accessory (x2)  -  Client
+  22:50:02.223    Char: Accessory (Outfit_Beach_1) Accessory  -  Client
+  22:50:02.223    Char: HumanoidRootPart Part  -  Client
+  22:50:02.223    Char: Carryble BoolValue  -  Client
+  22:50:02.224    Char: LeftUpperLeg MeshPart  -  Client
+  22:50:02.224    Char: LeftLowerLeg MeshPart  -  Client
+  22:50:02.224    Char: Head MeshPart  -  Client
+  22:50:02.224    Char: RightFoot MeshPart  -  Client
+  22:50:02.224    Char: RightLowerArm MeshPart  -  Client
+  22:50:02.224    Char: LeftHand MeshPart  -  Client
+  22:50:02.224    Char: LowerTorso MeshPart  -  Client
+  22:50:02.224    Char: RightLowerLeg MeshPart  -  Client
+  22:50:02.224    Char: RightUpperArm MeshPart  -  Client
+  22:50:02.225    Char: LeftFoot MeshPart  -  Client
+  22:50:02.225    Char: LeftUpperArm MeshPart  -  Client
+  22:50:02.225    Char: RightUpperLeg MeshPart  -  Client
+  22:50:02.225    Char: UpperTorso MeshPart  -  Client
+  22:50:02.225    Char: RightHand MeshPart  -  Client
+  22:50:02.225    Char: LeftLowerArm MeshPart  -  Client
